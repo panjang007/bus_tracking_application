@@ -1,0 +1,34 @@
+Features in this app:
+
+1. Admin side:
+- dashboard based
+- statistic on usage
+- driver check-ins
+- customer support
+
+2. Users side:
+- bus tracking features - live location, estimated time of arrival and the distance of the bus from each bustop should be displayed
+- change busses - each chosen bus will display current bus's tracking features
+- live location - the bus' location must displayed at all times
+- bus' state - moving, at rest, not working (can work on better naming)
+- estimated time of arrival - use algorithm to get the speed and calculate the time of arrival at each bus stop
+- distance of the bus from current bustop - route must be displayed, if user choose bustop A, then there will be a highlighted path from the bus to the bustop
+
+additional (bonus):
+- passenger count based on the users of the app
+
+3. Bus Drivers side:
+- start driving button - if pressed the bus will go online on the user and admin side of the application
+- set state of the bus - on duty, rest, stopping for gas, off duty
+- driver profile - change details
+
+4. Things to do:
+- use case diagram - 22 January ✅
+- prototype design - 25 January
+- coding - 3 March
+
+5. Design website:
+- behance.net - https://www.behance.net/gallery/71702875/School-Bus-Tracking-App?tracking_source=search_projects|bus+tracking+app&l=15. 
+- MyRapid PULSE - https://play.google.com/store/apps/details?id=com.prasarana.pulse&raii=com.prasarana.pulse&raboi=CAE%3D&rasi=-540124020184795843&rapt=AEjHL4NY2IPhyGCMMAv6LpHSGdglgfX0hACEm4WmF4V7jvW707JbVYQzL4ZYy5qJQfi1e_BnatXf1jPe4ZoAZCioRDpj7RmssCeXhlTQPJkbWr4JfTHsdPgG098y2Dm8gcrbMU4df2wt.
+- my design - https://www.canva.com/design/DAFq3R0WrO4/0lOWH3qFHcOuvGdIsGMOzw/edit. 
+
