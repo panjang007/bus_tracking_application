@@ -24,11 +24,12 @@ additional (bonus):
 
 4. Things to do:
 - use case diagram - 22 January ✅
-- prototype design - 25 January
-- coding - 3 March
+- prototype design - 25 January 
+- coding - 3 March 
 
 5. Design website:
 - behance.net - https://www.behance.net/gallery/71702875/School-Bus-Tracking-App?tracking_source=search_projects|bus+tracking+app&l=15. 
 - MyRapid PULSE - https://play.google.com/store/apps/details?id=com.prasarana.pulse&raii=com.prasarana.pulse&raboi=CAE%3D&rasi=-540124020184795843&rapt=AEjHL4NY2IPhyGCMMAv6LpHSGdglgfX0hACEm4WmF4V7jvW707JbVYQzL4ZYy5qJQfi1e_BnatXf1jPe4ZoAZCioRDpj7RmssCeXhlTQPJkbWr4JfTHsdPgG098y2Dm8gcrbMU4df2wt.
 - my design - https://www.canva.com/design/DAFq3R0WrO4/0lOWH3qFHcOuvGdIsGMOzw/edit. 
+- animated logo - https://www.canva.com/design/DAF6bqGRq7k/dtyDL6qO0SwpxnwqSf32Cw/edit?utm_content=DAF6bqGRq7k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton. 
 
